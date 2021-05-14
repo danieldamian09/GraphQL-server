@@ -1,0 +1,25 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "titulo": "Node JS",
+            "autor": "Juan Valdez",
+            "tema": "Javascript",
+            "url": "https://graphql.org/"
+        },
+        {
+            "id": 2,
+            "titulo": "Rust",
+            "autor": "Juan Valdez",
+            "tema": "Rust",
+            "url": "https://graphql.org/"
+        },
+        {
+            "id": 3,
+            "titulo": "Redux",
+            "autor": "Juan Valdez",
+            "tema": "Javascript",
+            "url": "https://graphql.org/"
+        }
+    ]
+}
